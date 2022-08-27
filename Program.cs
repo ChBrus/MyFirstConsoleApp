@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-Console.WriteLine("Help me!!! I don't know how to use C#!!!!");
+namespace helloWorldPlatzi {
+    class Program{
+        public static void Main(string[] args) {
+            Console.WriteLine("Helo Platzi!");
+        }
+    }
+}
